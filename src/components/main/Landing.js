@@ -44,7 +44,7 @@ function NotAuthenticated() {
               },
               {
                 type: "nickname",
-                label: "How should we address you???????",
+                label: "How should we address you???????.............",
                 placeholder: "nickname",
                 required: true
               }
